@@ -1,0 +1,118 @@
+  <div class="landing">
+    <div class="container">
+    <nav>
+      <img src="images/logo.svg"class="logo">
+        <img src="images/icon-hamburger.svg" class="menu" id="meun">
+      <ul id="list">
+        <li><a href="#">About </a></li>
+        <li><a href="#">Careers </a></li>
+        <li><a href="#">Events </a></li>
+        <li><a href="#">Products </a></li>
+        <li><a href="#">Support </a></li>
+      </ul>
+    </nav>
+
+
+    <div class="text">
+      <h1>immersive experiences that deliver</h1>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <div class="image">
+    <img src="images/image-interactive.jpg">
+  </div>
+    <div class="text">
+      <h1>the leader in interactive vr</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis officia asperiores rerum reiciendis porro molestiae, dolores debitis nulla nam, minus sequi quas.</p>
+    </div>
+  </div>
+</div>
+
+<div class="creations">
+  <div class="container">
+
+    <div class="heading">
+      <h1>Our creations</h1>
+      <a>See all</a>
+    </div>
+
+    <div class="boxes">
+
+      <div class="box" data-text="deep earth" >
+        <div class="image">
+          <img src="images/image-deep-earth.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="night arcade" >
+        <div class="image">
+          <img src="images/image-night-arcade.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="soccer team" >
+        <div class="image">
+          <img src="images/image-soccer-team.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="the grid" >
+        <div class="image">
+          <img src="images/image-grid.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="from up above vr" >
+        <div class="image">
+          <img src="images/image-from-above.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="pocket borealis" >
+        <div class="image">
+          <img src="images/image-pocket-borealis.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="the curiosity" >
+        <div class="image">
+          <img src="images/image-curiosity.jpg" >
+        </div>
+      </div>
+      <div class="box" data-text="make it fisheye" >
+        <div class="image">
+          <img src="images/image-fisheye.jpg" >
+        </div>
+      </div>
+
+    </div>
+    <div class="see-all">
+    <a>See all</a>
+  </div>
+  </div>
+</div>
+
+<footer>
+  <div class="container">
+
+    <div class="left-side">
+      <img src="images/logo.svg"  class="logo">
+      <ul>
+        <li><a href="#">About </a></li>
+        <li><a href="#">Careers </a></li>
+        <li><a href="#">Events </a></li>
+        <li><a href="#">Products </a></li>
+        <li><a href="#">Support </a></li>
+      </ul>
+    </div>
+
+    <div class="right-side">
+      <ul>
+        <li><img src="images/icon-facebook.svg"></li>
+        <li><img src="images/icon-twitter.svg"></li>
+        <li><img src="images/icon-pinterest.svg"></li>
+        <li><img src="images/icon-instagram.svg"></li>
+      </ul>
+      <span class="rights">@2021 Loopstudios. All rights reserved</span>
+    </div>
+    
+  </div>
+</footer>
+
